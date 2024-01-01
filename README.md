@@ -18,7 +18,7 @@ Exploring advanced Flutter concepts and improving my UI/UX design skills.
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Pradip Adhikari](https://www.linkedin.com/in/pradip-adhikari/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- LinkedIn: [Pradip Adhikari](https://www.linkedin.com/in/pradip490/)
+
 
 Feel free to explore my repositories and collaborate on exciting Flutter projects! 😄
