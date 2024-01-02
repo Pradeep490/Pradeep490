@@ -16,6 +16,6 @@ Along with Project Management
 ## 📫 Let's Connect
 
 - LinkedIn: [Pradip Adhikari](https://www.linkedin.com/in/pradip490/)
-- Instagram :.[Pradip Adhikari](https://www.instagram.com/pradeep0_o/)
+- Instagram :[Pradip Adhikari](https://www.instagram.com/pradeep0_o/)
 
 Feel free to explore my repositories and collaborate on exciting Flutter projects! 😄
