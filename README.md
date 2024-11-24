@@ -1,11 +1,10 @@
 # Hi there, I'm Pradip Adhikari! 👋
 
-I'm a passionate developer interested in Flutter,Web Scrapping,QA Automation and intrested on Project Management.
+I'm a passionate developer interested in front-end, Web Scrapping,QA Automation and intrested on Project Management.
 
 ## 🔧 Technologies & Tools
 
-- Programming Languages: Dart, JavaScript, Python
-- Frameworks & Libraries: Flutter
+- Programming Languages: Dart,HTML,CSS,TailwindCSS,Typescript, JavaScript, Python
 - Tools: VS Code, Git
 
 ## 🌱 Currently Learning
