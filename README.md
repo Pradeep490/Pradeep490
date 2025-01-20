@@ -9,7 +9,7 @@ I'm a passionate developer interested in front-end, Web Scrapping,QA Automation 
 
 ## 🌱 Currently Learning
 
-Exploring QA Automation through selenium.
+Learning Frontend Developing
 
 ## 📫 Let's Connect
 
